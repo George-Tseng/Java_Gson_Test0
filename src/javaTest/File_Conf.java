@@ -160,7 +160,7 @@ public class File_Conf {
     }
 
     /**
-     * 確認來源檔是否存在
+     * 確認輸出檔是否存在
      *
      * @return true代表來源檔案存在
      *
